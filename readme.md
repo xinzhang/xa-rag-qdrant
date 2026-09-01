@@ -1,0 +1,1 @@
+just a testing for qdrant exploring.
