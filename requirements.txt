@@ -1,0 +1,6 @@
+requests
+qdrant-client
+openai
+pyyaml
+fastembed
+python-dotenv
